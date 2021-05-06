@@ -30,8 +30,7 @@ basic.forever(function () {
     } else {
         Rover.MotorRunDual(-100, 100)
     }
-    break;
-LineTracking22()
+    LineTracking22()
 })
 basic.forever(function () {
 	
